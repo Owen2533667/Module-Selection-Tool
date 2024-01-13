@@ -1,10 +1,7 @@
 # Module-Selection-Tool
 
-A brief description of what this project does and who it's for
 
-CTEC2905_OO_Design
-
-As part of my second-year module on object oriented design for my BSc in Computer Science course, my assignment for the module was to create a module selection tool for student to select their third year modules 
+For my BSc in Computer Science course, as a requirement for the second-year module CTEC2905 on object-oriented design, I undertook the task of developing a module selection tool. The tool was designed to assist students in choosing their third-year modules.
 
 
 ## 🛠 Skills
@@ -20,6 +17,4 @@ Java
 
 - [@Owen2533667](https://www.github.com/Owen2533667)
 
-
-# Hi, I'm Owen! 👋
 
