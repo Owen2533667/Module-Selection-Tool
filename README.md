@@ -5,7 +5,7 @@ For my BSc in Computer Science course, as a requirement for the second-year modu
 
 
 ## 🛠 Skills
-Java
+Java, MVC (Model-View-Controller), GUI
 
 
 ## 🔗 Links
